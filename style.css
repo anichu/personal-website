@@ -3,3 +3,46 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+.half-width {
+	width: 40%;
+}
+
+.half-width img {
+	width: 100%;
+}
+.flex {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.header {
+	padding: 20px 0px;
+	align-items: center;
+	background: url("images/header-bg.png");
+}
+
+.header h1 {
+	font-size: 40px;
+	margin: 10px 0px;
+}
+
+p {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.crimson-color {
+	color: crimson;
+}
+
+.link {
+	text-decoration: none;
+	background: crimson;
+	color: white;
+	padding: 5px 15px;
+	border-radius: 5px;
+}
+.header-paragraph {
+	margin-bottom: 20px;
+}
