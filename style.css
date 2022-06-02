@@ -46,3 +46,18 @@ p {
 .header-paragraph {
 	margin-bottom: 20px;
 }
+.biography {
+	background-image: url("images/biography-bg.png");
+	align-items: center;
+}
+
+.biography h1 {
+	margin: 30px 0px;
+}
+
+.biography p {
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 25px;
+	margin-bottom: 30px;
+}
