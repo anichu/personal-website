@@ -38,7 +38,7 @@ p {
 
 .link {
 	text-decoration: none;
-	background: crimson;
+	background-image: linear-gradient(to right, #ec3257, #b21031);
 	color: white;
 	padding: 5px 15px;
 	border-radius: 5px;
